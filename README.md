@@ -1,11 +1,11 @@
 # chatgpt-demo
-**create virtual environment** 
+**create virtual environment** </br>
     python -m venv venv
 
-**activate environment**
-    source venv/bin/activate  # for linux
+**activate environment** </br>
+    source venv/bin/activate  # for linux </br>
     venv\Scripts\activate     # for windows
 
-**install dependencies for openai and other libraries**
-    pip install openai
+**install dependencies for openai and other libraries** </br>
+    pip install openai </br>
     pip install gradio
